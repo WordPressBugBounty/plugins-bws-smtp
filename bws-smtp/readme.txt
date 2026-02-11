@@ -1,10 +1,10 @@
 === SMTP by BestWebSoft ===
-Contributors: bestwebsoft
+Contributors: bestweblayout
 Donate link: https://bestwebsoft.com/donate/
-Tags: smtp, smtp plugin, smtp mail, email, mail, mail ssl, mail tls, phpmailer, send email via smtp, mailer, test email, add smtp plugin
+Tags: smtp, smtp plugin, smtp mail, email, mail
 Requires at least: 5.6
-Tested up to: 6.7
-Stable tag: 1.1.9
+Tested up to: 6.8
+Stable tag: 1.2.0
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
